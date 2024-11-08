@@ -1,0 +1,21 @@
+job_id,location,job_type,skills,years_of_experience
+1,New York,Full-time,"Python, Data Analysis",3
+2,San Francisco,Part-time,"Java, Spring Boot",5
+3,Chicago,Contract,"JavaScript, React",2
+4,Los Angeles,Internship,"Python, Machine Learning",1
+5,Austin,Full-time,"C++, Embedded Systems",4
+6,New York,Full-time,"Python, Data Analysis",6
+7,San Francisco,Part-time,"Java, Spring Boot",8
+8,Chicago,Contract,"JavaScript, React",3
+9,Los Angeles,Internship,"Python, Machine Learning",2
+10,Austin,Full-time,"C++, Embedded Systems",7
+11,New York,Full-time,"Python, Data Analysis",5
+12,San Francisco,Part-time,"Java, Spring Boot",6
+13,Chicago,Contract,"JavaScript, React",9
+14,Los Angeles,Internship,"Python, Machine Learning",10
+15,Austin,Full-time,"C++, Embedded Systems",2
+16,New York,Full-time,"Python, Data Analysis",3
+17,San Francisco,Part-time,"Java, Spring Boot",4
+18,Chicago,Contract,"JavaScript, React",5
+19,Los Angeles,Internship,"Python, Machine Learning",6
+20,Austin,Full-time,"C++, Embedded Systems",7
